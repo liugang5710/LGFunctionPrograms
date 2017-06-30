@@ -3,6 +3,7 @@
 
 #### 动态UITableView 生成长截图 [http://www.jianshu.com/p/8756acb81cb5]
 #code
+____
 +(UIImage *)getTableViewimagewithTabelview:(UITableView *)tableview{
     UIImage* viewImage = nil;
     UITableView *scrollView = tableview;
@@ -24,3 +25,6 @@
 
     return viewImage;
 }
+
+
+# [http://www.hangge.com/blog/cache/category_72_1.html]

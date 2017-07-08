@@ -31,3 +31,5 @@ ____
 ### 正在学习的博客 [https://juejin.im/post/5945187afe88c2006a74076a]
 
 ＃＃＃https://androidtest.org/android-graphics-performance-pattens/#11
+图片解压缩原理
+＃［http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/］

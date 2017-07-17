@@ -33,3 +33,5 @@ ____
 ＃＃＃https://androidtest.org/android-graphics-performance-pattens/#11
 图片解压缩原理
 ＃［http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/］
+
+[http://www.enharmonichq.com/tutorial-particle-systems-in-core-animation-with-caemitterlayer/#prettyPhoto/0/]
